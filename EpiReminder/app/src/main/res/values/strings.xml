@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EpiReminder</string>
+    <string name="title_activity_update_calendar">UpdateCalendar</string>
+</resources>
